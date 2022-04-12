@@ -12,17 +12,12 @@
 ## Tech 📖
 <br>
 
-[![Html](https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML5&logoColor=white)](#)
-[![Css](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](#)
-[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](#)
-
 [![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-teal?style=flat-square&logo=JAVA&logoColor=white)](#)
 [![Spring](https://img.shields.io/badge/Spring-67AA3C?style=flat-square&logo=Spring&logoColor=white)](#)
 [![Mysql](https://img.shields.io/badge/Mysql-skyblue?style=flat-square&logo=Mysql&logoColor=black)](#)
 
 [![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-skyblue?style=flat-square&logo=docker&logoColor=blue)](#)
 
 <br>
 <hr/>
