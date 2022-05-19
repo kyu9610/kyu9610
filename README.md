@@ -6,7 +6,7 @@
 
 <hr/> 
  
-<p>Spring을 이용하여 웹 백엔드를 공부하고있는 개발자</p>
+<p>Web BackEnd 개발자</p>
   
 ## Tech 📖
 <br>
